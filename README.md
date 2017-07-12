@@ -1,4 +1,4 @@
-Template for static sites. Comes with Webpack, Bootstrap, and Sass.
+Template for static sites. Comes with Webpack, Bootstrap, and Sass, and Express.
 
 To run:
 `npm install && npm start`
